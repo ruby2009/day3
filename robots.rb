@@ -30,18 +30,6 @@ class ActorUnit < Robot
   end
 end
 
-#TEST CODE
-# test_actor = ActorUnit.new("Future")
-#
-# puts test_actor.change_name("Ted")
-#
-# test_robot = Robot.new("Roboto")
-# puts test_robot.say_hi
-# puts test_robot.say_name
-#
-# test_bendor = BendingUnit.new("Bender")
-#
-# puts test_bendor.bend("spoon")
 
 our_class = %w(Rob David Nancy Kalea Laura Dave Demetra Kendrick Phil Ben Michael Miguel Chris)
 
